@@ -9,6 +9,7 @@ Nama: Sabrina Zarlis
 
 NIM: 1801624217
 
+Anggota Pertama
 Nama: Alica Zahia Irdi
 
 NIM: 1801624101
