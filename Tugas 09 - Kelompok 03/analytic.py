@@ -83,4 +83,4 @@ def tampilkan_analytics(id_check, pilihan):
 
     input("\nTekan Enter untuk kembali ke menu fitur...")
 
-    return tingkat_stres.lower()
+    return tingkat_stres.lower() 
